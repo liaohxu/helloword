@@ -1,4 +1,4 @@
-"""排序"""
+"""排序操作"""
 
 class Sort:
     def __init__(self,lst):
